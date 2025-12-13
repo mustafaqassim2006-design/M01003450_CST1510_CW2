@@ -1,0 +1,18 @@
+1. Install required dependencies 
+pip install streamlit pandas bcrypt
+If you later see ModuleNotFoundError: No module named 'X', just do:
+pip install x 
+
+2. Initalize the database
+python3 -m DB.main /
+python -m DB.main
+
+3. Run the streamlit app
+python3 -m streamlit run app.py /
+python -m streamlit run app.py /
+streamlit run app.py
+
+4. Login with username : test, password : 123456
+
+Make an env file and add this to it if ai dosent work
+OPENROUTER_API_KEY=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
