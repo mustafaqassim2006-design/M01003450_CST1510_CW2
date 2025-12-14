@@ -1,5 +1,4 @@
 
-````md
 # Multi-Domain Intelligence Platform (CST1510 Coursework 2)
 
 A Streamlit-based **Multi-Domain Intelligence Platform** developed for **CST1510 Coursework 2**.  
